@@ -64,11 +64,7 @@ A socially-driven initiative to protect and empower stray cattle through a web p
 A content-based movie recommendation system that suggests similar movies based on a selected title using cosine similarity and NLP techniques.
 
 🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit, Pickle  
-🔹 **Key Features:**  
-- 🎞️ Movie selection via dropdown  
-- 🧠 Cosine similarity–based recommendations  
-- 📊 Clean web interface using Streamlit  
-- 📁 Preprocessed movie data stored in `.pkl` files  
+🔹 **Key Features:**  Movie selection via dropdown , Cosine similarity–based recommendations ,Clean web interface using Streamlit , Preprocessed movie data stored in `.pkl` files  
 
 🔗 [Code](https://github.com/ksaini762/Movie-Recommender-System)
 
@@ -80,11 +76,7 @@ A machine learning-based model to predict house prices using real estate feature
 The project uses regression techniques on the Boston Housing dataset to provide accurate price estimations.
 
 🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Jupyter Notebook  
-🔹 **Key Features:**  
-- 📊 Data analysis and preprocessing  
-- 🧠 Model training with Linear Regression  
-- 📈 Evaluation using R², MSE, RMSE  
-- 📂 Jupyter Notebooks for training and testing
+🔹 **Key Features:**  Data analysis and preprocessing, Model training with Linear Regression ,Evaluation using R², MSE, RMSE ,Jupyter Notebooks for training and testing.
 
 🔗 [Code](https://github.com/ksaini762/Real-Estate---House-Price-Prediction)
 
