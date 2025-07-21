@@ -6,7 +6,7 @@
 
 <h3 align="left">
 
-I'm a dedicated Computer Engineering undergraduate at <b>Thapar Institute of Engineering and Technology</b>, with strong interests in <b>AI/ML</b>, <b>Natural Language Processing (NLP)</b>, and <b>Frontend Development</b>.
+I'm a dedicated engineering undergraduate at <b>Thapar Institute of Engineering and Technology</b>, with strong interests in <b>AI/ML</b>, <b>Natural Language Processing (NLP)</b>, and <b>Frontend Development</b>.
 
 
 🚀 I enjoy building intelligent, real-world systems that combine smart algorithms with practical, user-focused applications.
