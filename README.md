@@ -58,7 +58,20 @@ A socially-driven initiative to protect and empower stray cattle through a web p
 🔗 [Live Website](https://cowish-in.github.io/)
 
  ---
- 
+
+ ### 🎬 [Movie-Recommender-System](https://github.com/ksaini762/Movie-Recommender-System)
+
+A content-based movie recommendation system that suggests similar movies based on a selected title using cosine similarity and NLP techniques.
+
+🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Streamlit, Pickle  
+🔹 **Key Features:**  
+- 🎞️ Movie selection via dropdown  
+- 🧠 Cosine similarity–based recommendations  
+- 📊 Clean web interface using Streamlit  
+- 📁 Preprocessed movie data stored in `.pkl` files  
+
+🔗 [Code](https://github.com/ksaini762/Movie-Recommender-System)
+
 
 
 
