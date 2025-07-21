@@ -46,9 +46,7 @@ A travel planning web app where users can sign up, explore destinations, build i
 
 ### 🐄 [COWISH](https://github.com/ksaini762/COWISH)
 
-A socially-driven initiative to protect and empower stray cattle through a web platform.  
-Users can report unprotected cows, explore go-products, and access resources on cattle welfare.  
-The project aims to reduce animal slaughter through awareness, sustainability, and innovation.
+A socially-driven initiative to protect and empower stray cattle through a web platform. Users can report unprotected cows, explore go-products, and access resources on cattle welfare. The project aims to reduce animal slaughter through awareness, sustainability, and innovation.
 
 🔹 **Tech Stack:** HTML, CSS  
 🔹 **Key Features:**  
@@ -59,6 +57,8 @@ The project aims to reduce animal slaughter through awareness, sustainability, a
 🔗 [Code](https://github.com/ksaini762/COWISH)
 🔗 [Live Website](https://cowish-in.github.io/)
 
+ ---
+ 
 
 
 
