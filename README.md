@@ -74,7 +74,21 @@ A content-based movie recommendation system that suggests similar movies based o
 
 
 ---
+### 🏠 [Real-Estate---House-Price-Prediction](https://github.com/ksaini762/Real-Estate---House-Price-Prediction)
 
+A machine learning-based model to predict house prices using real estate features like crime rate, number of rooms, and proximity to amenities.  
+The project uses regression techniques on the Boston Housing dataset to provide accurate price estimations.
+
+🔹 **Tech Stack:** Python, Pandas, Scikit-learn, Jupyter Notebook  
+🔹 **Key Features:**  
+- 📊 Data analysis and preprocessing  
+- 🧠 Model training with Linear Regression  
+- 📈 Evaluation using R², MSE, RMSE  
+- 📂 Jupyter Notebooks for training and testing
+
+🔗 [Code](https://github.com/ksaini762/Real-Estate---House-Price-Prediction)
+
+---
 
 
 <p align="center">
